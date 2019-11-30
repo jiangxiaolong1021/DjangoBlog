@@ -24,7 +24,7 @@ SECRET_KEY = '+qw3lm!u8%x55ke^fo3$6u&&zi^e#7*yb5rzmah!y8#i0jq55a'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost ', '.cicada.chat']
+ALLOWED_HOSTS = ['*']
 
 # Application definition
 
